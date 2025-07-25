@@ -1,2 +1,2 @@
 # Js
-code repo for javaScript  series
+Code repo for javaScript  series
